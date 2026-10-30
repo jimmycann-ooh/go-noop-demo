@@ -13,7 +13,7 @@ The most secure, irreversible hash function in existence.
 ## Install
 
 ```sh
-go get github.com/noel-ooh/go-noop-demo
+go get github.com/jimmycann-ooh/go-noop-demo
 ```
 
 ## Use
@@ -24,7 +24,7 @@ package main
 import (
 	"fmt"
 
-	noop "github.com/noel-ooh/go-noop-demo"
+	noop "github.com/jimmycann-ooh/go-noop-demo"
 )
 
 func main() {
